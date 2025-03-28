@@ -60,14 +60,14 @@ for creating dax for Profit contribution in perecntage
         
 Snap of profit contribution in perecntage,
 
-![Snap](https://github.com/user-attachments/assets/6ee9faba-caf8-4430-8674-484fa0cc0ca9.png)
+![Snap](https://github.com/user-attachments/assets/6ee9faba-caf8-4430-8674-484fa0cc0ca9.PNG)
 
 
  I calculated the average profit margin as 
  2.53%, providing insights into
  overall profitability.
 
- ![Snap](https://github.com/user-attachments/assets/42f88bff-a4f4-4fbd-b74c-405f71d1d8d6.png)
+ ![Snap](https://github.com/user-attachments/assets/42f88bff-a4f4-4fbd-b74c-405f71d1d8d6.PNG)
 
 (a) Calculated total revenue, revenue trends, and revenue contribution by market and customer.
 
@@ -85,13 +85,13 @@ Snap of profit contribution in perecntage,
 Profit Analysis
 
 
-![Snap](https://github.com/user-attachments/assets/f45662b7-0965-4f58-8f33-2af39b0db5f6.png)
+![Snap](https://github.com/user-attachments/assets/f45662b7-0965-4f58-8f33-2af39b0db5f6.PNG)
 
 
 
 Key Insights
 
-![Snap](https://github.com/user-attachments/assets/6baeed55-9a35-4b69-b44d-b5dbbd5a8e13.png)
+![Snap](https://github.com/user-attachments/assets/6baeed55-9a35-4b69-b44d-b5dbbd5a8e13.PNG)
 
 # AtliQ hardware-Dashboard.md.txt
 Displaying # AtliQ hardware-Dashboard.md.txt.
