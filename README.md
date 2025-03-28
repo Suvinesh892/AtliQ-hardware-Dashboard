@@ -85,7 +85,7 @@ Snap of profit contribution in perecntage,
 Profit Analysis
 
 
-![Snap](https://github.com/user-attachments/assets/f45662b7-0965-4f58-8f33-2af39b0db5f6.PNG)
+![Image](https://github.com/user-attachments/assets/c5ddee19-ef61-4407-ad16-4f8ff8913730)
 
 
 
