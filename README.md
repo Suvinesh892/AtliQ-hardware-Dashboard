@@ -91,7 +91,7 @@ Profit Analysis
 
 Key Insights
 
-![Snap](https://github.com/user-attachments/assets/6baeed55-9a35-4b69-b44d-b5dbbd5a8e13.PNG)
+![Image](https://github.com/user-attachments/assets/27c03ae7-786a-4549-9675-f0c9f25181b1)
 
 # AtliQ hardware-Dashboard.md.txt
 Displaying # AtliQ hardware-Dashboard.md.txt.
