@@ -67,7 +67,7 @@ Snap of profit contribution in perecntage,
  2.53%, providing insights into
  overall profitability.
 
- ![Snap](https://github.com/user-attachments/assets/42f88bff-a4f4-4fbd-b74c-405f71d1d8d6.PNG)
+![Image](https://github.com/user-attachments/assets/2fde8845-07a8-4b9a-8a66-d7106247e669)
 
 (a) Calculated total revenue, revenue trends, and revenue contribution by market and customer.
 
