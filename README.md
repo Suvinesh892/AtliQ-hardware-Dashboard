@@ -60,7 +60,7 @@ for creating dax for Profit contribution in perecntage
         
 Snap of profit contribution in perecntage,
 
-![Image](https://github.com/user-attachments/assets/087880b2-eb39-474f-a887-74142b718ff4
+![Image](https://github.com/user-attachments/assets/087880b2-eb39-474f-a887-74142b718ff4).
 
 
  I calculated the average profit margin as 
