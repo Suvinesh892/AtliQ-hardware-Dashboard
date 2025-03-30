@@ -1,5 +1,8 @@
 # AtliQ hardware-Dashboard
-
+## Skills and Tools Used
+- **Data Management:** MySQL
+- **Data Analysis:** Excel
+- **Data Visualization:** Power BI
 
 
 ## Problem Statement
