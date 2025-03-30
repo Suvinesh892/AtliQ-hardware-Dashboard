@@ -1,8 +1,14 @@
 # AtliQ hardware-Dashboard
 ## Skills and Tools Used
 - **Data Management:** MySQL
-- **Data Analysis:** Excel
+- **Data Analysis:** Microsoft Excel
 - **Data Visualization:** Power BI
+
+- **Data Cleaning & Transformation**
+- **Exploratory Data Analysis (EDA)**
+- **KPI Development**
+- **Data Modeling**
+- **SQL Querying**
 
 
 ## Problem Statement
