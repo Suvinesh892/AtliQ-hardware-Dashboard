@@ -1,4 +1,5 @@
 # AtliQ hardware-Dashboard
+(Guided Project)
 ## Tools Used
 - **Data Management:** MySQL
 - **Data Analysis:** Microsoft Excel
